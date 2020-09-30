@@ -1,3 +1,4 @@
+package Docs;
 public class MVCPatternDemo {
     public static void main(String[] args) {
        //fetch student record based on his roll no from the database
